@@ -13,8 +13,6 @@ const colors = [
 const defaultColor = "#D9D9D9"
 const removedColor = "white"
 
-//TODO man kan klicka på samma cirkel två gånger och få poäng
-
 //a list of objects
 let cards = []
 
